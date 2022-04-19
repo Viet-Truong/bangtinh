@@ -1,0 +1,13 @@
+C:\Users\AD\Documents\c#\Bangtinh\bin\Debug\Bangtinh.exe.config
+C:\Users\AD\Documents\c#\Bangtinh\bin\Debug\Bangtinh.exe
+C:\Users\AD\Documents\c#\Bangtinh\bin\Debug\Bangtinh.pdb
+C:\Users\AD\Documents\c#\Bangtinh\bin\Debug\Bangtinh.xml
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.vbproj.AssemblyReference.cache
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.vbproj.SuggestedBindingRedirects.cache
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.Form1.resources
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.Resources.resources
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.vbproj.GenerateResource.cache
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.vbproj.CoreCompileInputs.cache
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.exe
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.xml
+C:\Users\AD\Documents\c#\Bangtinh\obj\Debug\Bangtinh.pdb
